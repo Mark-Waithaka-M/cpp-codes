@@ -1,0 +1,8 @@
+		Table NO::	2
+		TYPE::	milk
+		QUANTITY::	2
+		BILL::	100
+		Table NO::	2
+		TYPE::	tea
+		QUANTITY::	1
+		BILL::	40

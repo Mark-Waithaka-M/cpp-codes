@@ -1,0 +1,7 @@
+		NAME::
+mark		TYPE::
+waithaka		QUANTITY::
+3		NAME::
+mark		TYPE::
+waithaka		QUANTITY::
+3

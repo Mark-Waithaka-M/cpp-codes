@@ -1,0 +1,4 @@
+		Table No::	2
+		TYPE::	chapo_minji
+		QUANTITY::	2
+		BILL::	140

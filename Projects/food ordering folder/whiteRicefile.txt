@@ -1,0 +1,8 @@
+		TableNo::	4
+		TYPE::	white_rice_minji
+		QUANTITY::	2
+		BILL::	180
+		TableNo::	2
+		TYPE::	white_rice_beef
+		QUANTITY::	2
+		BILL::	240

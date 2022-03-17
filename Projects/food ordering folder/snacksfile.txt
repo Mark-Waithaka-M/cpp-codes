@@ -1,0 +1,4 @@
+		Table No::	7
+		TYPE::	mandazi
+		QUANTITY::	3
+		BILL::	70

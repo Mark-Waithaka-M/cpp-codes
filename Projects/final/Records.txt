@@ -1,0 +1,3 @@
+
+---------------------HOTEL RECORDS ----------------------------
+NUMBER OF MEALS: 1	ORDER: 2	OPTION: 0	QUANTITY: 0	BILL:0
